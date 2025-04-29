@@ -29,6 +29,5 @@ Le site est prévu pour être déployé sur :
 
 ## Auteur
 
-- **Emmanuel Mikaelian**
-- Développé en collaboration avec ChatGPT (assistant technique personnalisé).
+- Emmanuel Mikaelian
 
